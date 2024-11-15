@@ -20,6 +20,40 @@ You can start editing the page by modifying `app/page.tsx`. The page auto-update
 
 This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
 
+## How to use MoonPay
+
+1. Click "Open MoonPay"
+
+2. Specify the currency pair and the amount for the purchase
+
+<img src="./images/moonpay-1.png" alt="moonpay-1" width="400" />
+
+3. Register your email address
+
+<img src="./images/moonpay-2.png" alt="moonpay-2" width="400" />
+
+4. Enter the PIN sent to your email
+
+<img src="./images/moonpay-3.png" alt="moonpay-3" width="400" />
+
+5. For this DEMO version, proceed to "Skip Document Submission"
+
+<img src="./images/moonpay-4.png" alt="moonpay-4" width="400" />
+
+6. Enter the address where you want to receive the assets
+
+<img src="./images/moonpay-5.png" alt="moonpay-5" width="400" />
+
+7. On the payment confirmation screen, click the final "Pay" button
+
+- Please refer to this link for test cards to use in the demo: [MoonPay Test Cards](https://dev.moonpay.com/docs/on-ramp-test-ramps-without-any-code)
+
+<img src="./images/moonpay-6.png" alt="moonpay-6" width="400" />
+
+8. Once the process is complete, you will be able to refer to the block explorer.
+
+<img src="./images/moonpay-7.png" alt="moonpay-7" width="400" />
+
 ## Learn More
 
 To learn more about Next.js, take a look at the following resources:
