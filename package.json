@@ -14,11 +14,12 @@
     "@dynamic-labs/ethereum": "^3.6.1",
     "@dynamic-labs/ethereum-aa": "^3.6.1",
     "@dynamic-labs/sdk-react-core": "^3.6.1",
-    "permissionless": "0.1.44",
-    "viem": "^2.7.6",
+    "@zerodev/webauthn-key": "^5.3.3",
     "next": "15.0.3",
+    "permissionless": "0.1.44",
     "react": "19.0.0-rc-66855b96-20241106",
-    "react-dom": "19.0.0-rc-66855b96-20241106"
+    "react-dom": "19.0.0-rc-66855b96-20241106",
+    "viem": "^2.7.6"
   },
   "devDependencies": {
     "@types/node": "^20",
